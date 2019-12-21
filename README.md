@@ -17,3 +17,9 @@ smart dog toy
 6.	用HSV得到狗骨头位置。
 7.	宠物靠近时用蓝牙通知发声并移动。
 8.	宠物啃咬时，自动开盖投食，移动并发出相应声音。
+
+# 系统设计
+
+## 摄像头python程序流程图
+
+![](https://github.com/castic2020/dogtoy/blob/master/dogtoy.jpg)
